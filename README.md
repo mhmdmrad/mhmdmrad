@@ -23,8 +23,8 @@
 - 📡 IoT Weather Station: Designed a weather station with real-time data visualization
 - 🕹️ Game Development: Created a basic 2D game with Python and Pygame
 - 🛡️ Cybersecurity Basics: Set up a home network firewall and learned ethical hacking principles
-- 📲 Mobile App: Developed a simple Android app to control Arduino projects via Bluetooth
-- 🧪 Circuit Simulation: Designed and tested circuits using Proteus and LTSpice
+- 📲 Mobile App: Developed a simple Android app to control Arduino projects via Bluetooth for ESP32
+- 🧪 Circuit Simulation: Designed and tested circuits using Proteus and LTSpice and more.......
 
 📈 Goals for 2025:
 - 🌍 Build a strong tech community in Lebanon with Contro Tech
