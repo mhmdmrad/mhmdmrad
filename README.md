@@ -20,21 +20,6 @@
 
 ---
 
-## 🚀 Projects
-
-🤖 **Robotics:** Built a robot with DC motors, ultrasonic sensors, and Arduino control  
-🔊 **Sound Detector:** Simple LED flasher that lights up on sound detection  
-🔥 **Contro Tech:** My growing online electronics store and community!  
-🎛️ **Home Automation:** Smart home system with ESP32 and Google Assistant integration  
-🔥 **AI Chatbot:** Python chatbot using machine learning and NLP  
-📡 **IoT Weather Station:** Real-time weather data visualization  
-🕹️ **Game Development:** Created a basic 2D game with Python and Pygame  
-🛡️ **Cybersecurity Basics:** Set up a home network firewall and learned ethical hacking principles  
-📲 **Mobile App:** Android app to control Arduino projects via Bluetooth for ESP32  
-🧪 **Circuit Simulation:** Designed and tested circuits using Proteus and LTSpice  
-
----
-
 ## 📈 Goals for 2025
 
 🌍 **Build a strong tech community in Lebanon with Contro Tech**  
@@ -46,4 +31,3 @@
 🔗 **Contribute to open-source software and hardware communities**  
 
 ---
-and thats all
