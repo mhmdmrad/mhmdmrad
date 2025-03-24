@@ -42,7 +42,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmrad&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mhmdmrad&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdmrad&theme=dark&hide_border=false)
 ---
 
 ### 📫 Contact Me
