@@ -1,52 +1,34 @@
-### Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mhmd Mrad! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=mhmdmrad&color=blue&style=flat-square)
 
----
+## 🚀 About Me
+🔹 Passionate about **Arduino, electronics, and mechatronics**
+🔹 Exploring **network engineering** and **AI**
+🔹 Sharing knowledge through **Contro Tech** 🎥
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+![Mhmd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdmrad&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&count_private=true)
+### 📌 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmrad&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=dark&hide_border=false)
-
----
-
-### 🚀 Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,js,html,css,nodejs,react,typescript,express,mongodb,git,linux,docker" />
+## 🛠️ Languages and Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
 </p>
 
----
+## 🏆 Achievements & Badges
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdmrad&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mhmdmrad&theme=radical)
 
-### 🏆 GitHub Badges
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### 🤝 Connect with me
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YourInstagramUsername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/YourDiscordLink)
+## 📞 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-ControTech-blue?style=flat-square&logo=discord)](https://discord.gg/yourlink)
+[![Instagram](https://img.shields.io/badge/Instagram-ControTech-purple?style=flat-square&logo=instagram)](https://www.instagram.com/ControTech)
 
 ---
-
-### 📌 My Contributions
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark)
-
-🔹 **Total Contributions:**  
-🔹 **Current Streak:**  
-🔹 **Longest Streak:**  
-
----
-
-### 🚀 Fun Fact:
-💡 "I love exploring new technologies, building cool projects, and learning new things every day!"
+💡 *"Exploring the world of technology, one project at a time!"*
