@@ -34,11 +34,15 @@
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-0A192F?style=for-the-badge&logo=easyeda&logoColor=white)
 ---
 
+
 ### 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=mhmdmrad&label=Profile%20views&color=blue&style=flat)
 
-![Mhmd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdmrad&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmrad&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdmrad&show_icons=true&theme=dark&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmrad&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mhmdmrad&theme=dark&hide_border=false)
 ---
 
 ### 📫 Contact Me
