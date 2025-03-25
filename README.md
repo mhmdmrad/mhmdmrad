@@ -30,7 +30,7 @@
 [![KiCad](https://img.shields.io/badge/-KiCad-2C3E50?style=flat&logo=kicad&logoColor=white)](https://www.kicad.org/)
 
 ### **PCB Design & Electronics:**
-[![Altium Designer](https://img.shields.io/badge/Altium%20Designer-00979D?style=for-the-badge&logo=altiumdesigner&logoColor=white)](https://www.altium.com/altium-designer/)
+[![Altium Designer](https://img.shields.io/badge/Altium%20Designer-00979D?style=for-the-badge&logo=altiumdesigner&logoColor=white)](https://www.altium.com)
 [![EasyEDA](https://img.shields.io/badge/EasyEDA-0A192F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com/)
 
 ---
