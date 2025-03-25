@@ -22,7 +22,7 @@
 ### **Hardware & Electronics:**
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
-[![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=esphome&logoColor=white)](https://www.espressif.com/en/products/socs/esp32/)
+[![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=esphome&logoColor=white)](https://www.espressif.com)
 
 ### **Software & Tools:**
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -31,7 +31,7 @@
 
 ### **PCB Design & Electronics:**
 [![Altium Designer](https://img.shields.io/badge/Altium%20Designer-00979D?style=for-the-badge&logo=altiumdesigner&logoColor=white)](https://www.altium.com)
-[![EasyEDA](https://img.shields.io/badge/EasyEDA-0A192F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com/)
+[![EasyEDA](https://img.shields.io/badge/EasyEDA-0A192F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
 
 ---
 
