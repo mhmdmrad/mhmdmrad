@@ -13,18 +13,18 @@
 
 ### 🛠️ Languages & Tools
 
-#### **Programming & Markup:**
+### **Programming & Markup:**
 [![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-#### **Hardware & Electronics:**
+### **Hardware & Electronics:**
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 [![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=esphome&logoColor=white)](https://www.espressif.com/en/products/socs/esp32/)
 
-#### **Software & Tools:**
+### **Software & Tools:**
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Fritzing](https://img.shields.io/badge/-Fritzing-AC1E44?style=flat&logo=fritzing&logoColor=white)](https://fritzing.org/)
 [![KiCad](https://img.shields.io/badge/-KiCad-2C3E50?style=flat&logo=kicad&logoColor=white)](https://www.kicad.org/)
