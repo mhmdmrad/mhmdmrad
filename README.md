@@ -39,9 +39,7 @@
 ### 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmdmrad&label=Profile%20views&color=blue&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdmrad&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmrad&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdmrad&show_icons=true&theme=dark&count_private=true)                   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmrad&layout=compact&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdmrad&theme=dark&hide_border=false)
 ---
