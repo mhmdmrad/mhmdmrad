@@ -45,7 +45,7 @@
 ---
 
 ### 📫 Contact Me
-📩 **Email:** [mhmdmrad@example.com](mailto:m7amadmr4d@gmail.com)  
+📩 **Email:** [m7amadmr4d@gmail.com]  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/controtech.lb)  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/mradmhamad)  
 
