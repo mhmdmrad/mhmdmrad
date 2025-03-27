@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🔬 Passionate about **electronics, Arduino, mechatronics, and networking**.
+- 🔬 Passionate about **electronics, Arduino, mechatronics, and networking**. 
 - 🤖 Building **Contro Tech**, a platform to help students learn Arduino & electronics.
 - 🎓 9th Grade Student with a strong love for **physics & technology**.
 - 🏆 Exploring **AI, embedded systems, and IoT**.
