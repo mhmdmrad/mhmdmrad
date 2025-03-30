@@ -8,7 +8,7 @@
 - 🎓 9th Grade Student with a strong love for **physics & technology**.
 - 🏆 Exploring **AI, embedded systems, and IoT**.
 
----
+--- 
 
 ### 🛠️ Languages & Tools
 
