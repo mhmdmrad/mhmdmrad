@@ -1,12 +1,18 @@
- # 👋 Hey! I'm Mhmd Mrad
+# 👋 Hey! I'm Mhmd Mrad
 
 ---
 
 ### 🚀 About Me
-- 🔬 Passionate about **electronics, Arduino, mechatronics, and networking**. 
-- 🤖 Building **Contro Tech**, a platform to help students learn Arduino & electronics.
-- 🎓 9th Grade Student with a strong love for **physics & technology**.
-- 🏆 Exploring **AI, embedded systems, and IoT**. 
+
+-   Aspiring engineer with a strong foundation in **electronics**, **embedded systems**, and **IoT**.  
+-   Skilled in **Arduino**, **ESP32**, and **Raspberry Pi** development, with a focus on real-world automation and ML applications.  
+-   Passionate about building projects that combine **hardware and software** to solve practical problems.  
+-   Founder of **Contro Tech** – a platform that:
+    Educates students and beginners about electronics and coding.  
+    Sells **Arduino-compatible components and kits** for hands-on learning.  
+-   Focused on making electronics education more **accessible**, especially for students in **Lebanon**.  
+-   Deep interest in **physics**, **system design**, and **future technologies**.  
+
 
 --- 
 
@@ -31,23 +37,26 @@
 ### **PCB Design & Electronics:**
 [![Altium Designer](https://img.shields.io/badge/Altium%20Designer-00979D?style=for-the-badge&logo=altiumdesigner&logoColor=white)](https://www.altium.com)
 [![EasyEDA](https://img.shields.io/badge/EasyEDA-0A192F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
+[![Eagle](https://img.shields.io/badge/Eagle-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/eagle/overview)
 
 ---
-
 
 ### 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmdmrad&label=Profile%20views&color=blue&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdmrad&show_icons=true&theme=dark&count_private=true)                   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmrad&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdmrad&show_icons=true&theme=dark&count_private=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdmrad&layout=compact&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdmrad&theme=dark&hide_border=false)
+
 ---
 
 ### 📫 Contact Me
-📩 **Email:** m7amadmr4d@gmail.com        
+📩 **Email:** m7amadmr4d@gmail.com  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/controtech.lb)  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/mradmhamad)  
 
 ---
 
 💡 _"Technology is best when it brings people together."_ – Matt Mullenweg
+
