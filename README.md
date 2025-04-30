@@ -57,6 +57,5 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/mradmhamad)  
 
 ---
-
-💡 _"Technology is best when it brings people together."_ – Matt Mullenweg
+💡 "Build what you wish existed." – Sahil Lavingia
 
