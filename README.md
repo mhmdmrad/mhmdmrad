@@ -34,10 +34,11 @@
 [![Fritzing](https://img.shields.io/badge/-Fritzing-AC1E44?style=flat&logo=fritzing&logoColor=white)](https://fritzing.org/)
 [![KiCad](https://img.shields.io/badge/-KiCad-2C3E50?style=flat&logo=kicad&logoColor=white)](https://www.kicad.org/)
 
-### **PCB Design & Electronics:**
+### **Design & Electronics:**
 [![Altium Designer](https://img.shields.io/badge/Altium%20Designer-00979D?style=for-the-badge&logo=altiumdesigner&logoColor=white)](https://www.altium.com)
 [![EasyEDA](https://img.shields.io/badge/EasyEDA-0A192F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
 [![Eagle](https://img.shields.io/badge/Eagle-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/eagle/overview)
+[![Fusion 360](https://img.shields.io/badge/Fusion%20360-FA7100?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
 
 ---
 
