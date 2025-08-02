@@ -39,6 +39,7 @@
 [![EasyEDA](https://img.shields.io/badge/EasyEDA-0A192F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
 [![Eagle](https://img.shields.io/badge/Eagle-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/eagle/overview)
 [![Fusion 360](https://img.shields.io/badge/Fusion%20360-FA7100?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com)
 
 ---
 
