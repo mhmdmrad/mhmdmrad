@@ -1,8 +1,8 @@
-# 👋 Hey! I'm Mhmd Mrad
+# 👋 Hey! I'm Mohamad Mrad
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 -   Aspiring engineer with a strong foundation in **electronics**, **embedded systems**, and **IoT**.  
 -   Skilled in **Arduino**, **ESP32**, and **Raspberry Pi** development, with a focus on real-world automation and ML applications.  
