@@ -4,19 +4,18 @@
 
 ###  About Me
 
--   Aspiring engineer with a strong foundation in **electronics**, **embedded systems**, and **IoT**.  
--   Skilled in **Arduino**, **ESP32**, and **Raspberry Pi** development, with a focus on real-world automation and ML applications.  
--   Passionate about building projects that combine **hardware and software** to solve practical problems.  
--   Founder of **Contro Tech** – a platform that:
-    Educates students and beginners about electronics and coding.  
-    Sells **Arduino-compatible components and kits** for hands-on learning.  
--   Focused on making electronics education more **accessible**, especially for students in **Lebanon**.  
--   Deep interest in **physics**, **system design**, and **future technologies**.  
-
+- Aspiring engineer passionate about **electronics**, **embedded systems**, **IoT**, and now **3D printing**.  
+- Exploring the world of **additive manufacturing** — from designing parts to turning **3D models into functional prototypes**.  
+- Skilled in **Arduino**, **ESP32**, and **Raspberry Pi** development, now expanding into **Fusion 360** and **SolidWorks** for **3D design and mechanical engineering**.  
+- Founder of **Contro Tech** – a platform that:  
+   - Educates students about **electronics & coding**  
+   - Sells **Arduino-compatible kits & components**  
+   - Makes tech education more **accessible in Lebanon**  
+- Passionate about combining **hardware, software, and design** to build solutions for real-world problems — from robotics to product prototyping.  
 
 --- 
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 ### **Programming & Markup:**
 [![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
@@ -37,13 +36,12 @@
 ### **Design & Electronics:**
 [![Altium Designer](https://img.shields.io/badge/Altium%20Designer-00979D?style=for-the-badge&logo=altiumdesigner&logoColor=white)](https://www.altium.com)
 [![EasyEDA](https://img.shields.io/badge/EasyEDA-0A192F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
-[![Eagle](https://img.shields.io/badge/Eagle-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/eagle/overview)
 [![Fusion 360](https://img.shields.io/badge/Fusion%20360-FA7100?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com)
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmdmrad&label=Profile%20views&color=blue&style=flat)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdmrad&show_icons=true&theme=dark&count_private=true) 
@@ -53,11 +51,11 @@
 
 ---
 
-### 📫 Contact Me
+###  Contact Me
 📩 **Email:** m7amadmr4d@gmail.com  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/controtech.lb)  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/mradmhamad)  
 
 ---
-💡 "Build what you wish existed." – Sahil Lavingia
+ "Build what you wish existed." 
 
