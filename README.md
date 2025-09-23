@@ -57,5 +57,5 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/mradmhamad)  
 
 ---
- "Build what you wish existed." 
+ "##Build what you wish existed." 
 
