@@ -5,7 +5,7 @@
 ###  About Me
 
 - Aspiring engineer passionate about **electronics**, **embedded systems**, **IoT**, and now **3D printing**.  
-- Exploring the world of **additive manufacturing** — from designing parts to turning **3D models into functional prototypes**.  
+- Exploring the world of **additive manufacturing** from designing parts to turning **3D models into functional prototypes**.  
 - Skilled in **Arduino**, **ESP32**, and **Raspberry Pi** development, now expanding into **Fusion 360** and **SolidWorks** for **3D design and mechanical engineering**.  
 - Knowledgeable in **3D printing**, including **Creality Slicer**, **Bambu Studio**, print tuning, and printer operation.  
 - Experienced in **mechanical designing**, tolerances, and designing functional assemblies.  
