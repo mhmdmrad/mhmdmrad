@@ -239,6 +239,60 @@ JavaScript              |||||||||||||||||          65%
 
 </div>
 
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--              GITHUB ACHIEVEMENTS                                      -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=GitHub+Achievements&fontSize=30&fontColor=FFA500&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+</div>
+
+<div align="center">
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mhmdmrad?achievement=pull-shark&tab=achievements">
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" height="80"/><br/>
+        <b>Pull Shark</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mhmdmrad?achievement=pair-extraordinaire&tab=achievements">
+        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80" height="80"/><br/>
+        <b>Pair Extraordinaire</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mhmdmrad?achievement=yolo&tab=achievements">
+        <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" height="80"/><br/>
+        <b>YOLO</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mhmdmrad?achievement=quickdraw&tab=achievements">
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" height="80"/><br/>
+        <b>Quickdraw</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achieved-0969DA?style=for-the-badge&logo=github)
+![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-Achieved-blueviolet?style=for-the-badge&logo=github)
+![YOLO](https://img.shields.io/badge/YOLO-Achieved-ff6b6b?style=for-the-badge&logo=github)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-Achieved-f39c12?style=for-the-badge&logo=github)
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mhmdmrad&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="95%"/>
+
+</div>
+
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
@@ -301,7 +355,7 @@ Repeat forever.
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--              HIRE ME / LET'S BUILD SOMETHING                          -->
+<!--              WHAT I BUILD                                             -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
