@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohamad%20Mrad&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontAlign=50&desc=Engineer%20%7C%20Lebanon%20%F0%9F%87%B2%F0%9F%87%9E&descAlignY=60&descSize=26&descAlign=50&stroke=29ABE2&strokeWidth=3" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=29ABE2&center=true&vCenter=true&width=860&lines=Hey!+I'm+Mohamad+%F0%9F%91%8B;Electronics+%26+Embedded+Systems+Developer+%F0%9F%8E%AF%E2%9A%99%9A;Electronics+%7C+IoT+%7C+3D+Printing+%7C+Arduino+%7C+ESP32+%7C+Raspberry+Pi;Building+hardware+and+software+solutions+%F0%9F%9B%A0%EF%B8%8F;From+robotics+to+product+prototyping.+Always+building.;Open+to+projects+%26+collaborations+%F0%9F%9A%80;printf(%22Hello+World%22)%3B+%E2%86%92+my+origin+story+%F0%9F%98%84" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=29ABE2&center=true&vCenter=true&width=860&lines=Hey!+I'm+Mohamad+%F0%9F%91%8B;Electronics+%26+Embedded+Systems+Developer;Electronics+%7C+IoT+%7C+3D+Printing+%7C+Arduino+%7C+ESP32+%7C+Raspberry+Pi;Building+hardware+and+software+solutions;From+robotics+to+product+prototyping.+Always+building.;Open+to+projects+%26+collaborations;printf(%22Hello+World%22)%3B+%E2%86%92+my+origin+story" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -32,17 +32,17 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  ⚡  DEVELOPER STATUS  ·          MOHAMAD                 ║
-╠══════════════════════════════════════════════════════════╣
-║  🟢  Status       →  Open for opportunities               ║
-║  🌍  Location     →  Lebanon 🇱🇧                          ║
-║  💼  Mode         →  Freelance + Collaboration            ║
-║  🔭  Current      →  IoT, robotics & 3D prototyping       ║
-║  🧠  Learning     →  SolidWorks · Machine Learning        ║
-║  💬  Ask me about →  Arduino, ESP32, Raspberry Pi, Python  ║
-║  ⚡  Fun fact     →  "Build what you wish existed."        ║
-╚══════════════════════════════════════════════════════════╝
++----------------------------------------------------------------+
+|  @  DEVELOPER STATUS  .          MOHAMAD                        |
++----------------------------------------------------------------+
+|  >>  Status       ->  Open for opportunities                    |
+|  <<  Location     ->  Lebanon                                   |
+|  ==  Mode         ->  Freelance + Collaboration                 |
+|  **  Current      ->  IoT, robotics & 3D prototyping            |
+|  ::  Learning     ->  SolidWorks, Machine Learning              |
+|  ??  Ask me about ->  Arduino, ESP32, Raspberry Pi, Python      |
+|  !!  Fun fact     ->  "Build what you wish existed."             |
++----------------------------------------------------------------+
 ```
 
 </div>
@@ -54,7 +54,7 @@
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%91%A4+Who+I+Am&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=Who+I+Am&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 </div>
 
 <br/>
@@ -65,25 +65,24 @@
 ```javascript
 const mohamad = {
   name:      "Mohamad Mrad",
-  location:  "Lebanon 🇱🇧",
+  location:  "Lebanon",
   role:      "Aspiring Electronics & Systems Engineer",
   passion:   "Bridging hardware, software, and design",
 
   currently_building: [
-    "🔧 Electronics projects with Arduino & ESP32",
-    "🤖 IoT systems and robotic solutions",
-    "🖨️  3D-printed functional prototypes with Fusion 360",
-    "📱 Interfacing sensors, displays, and embedded modules",
+    "Electronics projects with Arduino & ESP32",
+    "IoT systems and robotic solutions",
+    "3D-printed functional prototypes with Fusion 360",
+    "Interfacing sensors, displays, and embedded modules",
   ],
 
   core_values: [
-    "Clean & documented code",   "Hands-on learning",
-    "Functional prototypes",     "Teaching what I master",
+    "Clean & documented code",    "Hands-on learning",
+    "Functional prototypes",      "Teaching what I master",
   ],
 
-  open_to:     "Freelance · Collaboration · Open-source",
+  open_to:     "Freelance, Collaboration, Open-source",
   superpower:  "Turning ideas into real working hardware + software.",
-  confession:  "I can debug electronics and code equally well.",
 };
 ```
 
@@ -93,7 +92,7 @@ const mohamad = {
 > From programming microcontrollers to designing and printing functional 3D parts — I love building things that solve real problems.
 > When software meets mechanics, magic happens.
 
-**Hit ⭐ Follow** — I share real projects here, not just homework assignments.
+**Follow** — I share real projects here, not just homework assignments.
 
 <br clear="right"/>
 
@@ -108,7 +107,7 @@ const mohamad = {
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%9B%A0%EF%B8%8F+Full+Tech+Stack+and+Skills&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=Full+Tech+Stack+and+Skills&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 </div>
 
 <br/>
@@ -122,14 +121,14 @@ const mohamad = {
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔌 Hardware & Electronics
+### Hardware & Electronics
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -137,16 +136,14 @@ const mohamad = {
 ![KiCad](https://img.shields.io/badge/KiCad-2C3E50?style=for-the-badge&logo=kicad&logoColor=white)
 ![Fritzing](https://img.shields.io/badge/Fritzing-AC1E44?style=for-the-badge&logo=fritzing&logoColor=white)
 
-### 🎨 Design & 3D Printing
+### Design & 3D Printing
 
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FA7100?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-0A192F?style=for-the-badge&logo=easyeda&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-00979D?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![Bambu Studio](https://img.shields.io/badge/Bambu_Studio-000000?style=for-the-badge&logoColor=white)
-![Creality Slicer](https://img.shields.io/badge/Creality_Slicer-0094B3?style=for-the-badge&logoColor=white)
 
-### 🛠 Software & Tools
+### Software & Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -161,7 +158,7 @@ const mohamad = {
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%93%8A+Skill+Levels&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=Skill+Levels&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 </div>
 
 <br/>
@@ -170,16 +167,16 @@ const mohamad = {
   src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 ```text
-Arduino / ESP32 / RPi   ██████████████████████░░  90%
-C / C++ / Python        █████████████████████░░░  88%
-Electronics & Circuits  ████████████████████░░░░  85%
-Mechanical Design       ██████████████████░░░░░░  80%
-3D Printing & Slicing   ███████████████████░░░░░  82%
-Sensors & IoT           ████████████████░░░░░░░░  75%
-Fusion 360 / SolidWorks ███████████████░░░░░░░░░  70%
-KiCad / PCB Design      ██████████████░░░░░░░░░░  65%
-Git & GitHub            ██████████████████░░░░░░░  80%
-JavaScript              ██████████████░░░░░░░░░░░  65%
+Arduino / ESP32 / RPi   ||||||||||||||||||||||||    90%
+C / C++ / Python        ||||||||||||||||||||||||    88%
+Electronics & Circuits  |||||||||||||||||||||||    85%
+Mechanical Design       |||||||||||||||||||||      80%
+3D Printing & Slicing   |||||||||||||||||||||||    82%
+Sensors & IoT           ||||||||||||||||||||       75%
+Fusion 360 / SolidWorks |||||||||||||||||||       70%
+KiCad / PCB Design      |||||||||||||||||          65%
+Git & GitHub            |||||||||||||||||||||      80%
+JavaScript              |||||||||||||||||          65%
 ```
 
 <br clear="right"/>
@@ -195,7 +192,7 @@ JavaScript              ██████████████░░░░�
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%90%8D+Contribution+Activity&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=Contribution+Activity&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=58" width="100%"/>
 </div>
 
 <div align="center">
@@ -219,7 +216,7 @@ JavaScript              ██████████████░░░░�
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%93%88+GitHub+Stats&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=GitHub+Stats&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
@@ -249,20 +246,20 @@ JavaScript              ██████████████░░░░�
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%97%A0%EF%B8%8F+What+I+Build&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=What+I+Build&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 </div>
 
 <br/>
 
 | Type | What I Do |
 |:---|:---|
-| 🔌 **Embedded Systems** | Arduino, ESP32 & Raspberry Pi — sensors, displays, IoT & Blynk projects |
-| 🤖 **Robotics & IoT** | Robotic cars, obstacle-detection systems, Bluetooth & Wi-Fi automation |
-| 🖨️ **3D Design** | Functional parts & assemblies in Fusion 360 & SolidWorks, ready for print |
-| 🖥️ **Desktop Apps** | Python desktop tools — e.g. pill dispenser, hand-gesture volume control |
-| 📱 **Mobile** | Flutter apps for hardware monitoring and automation |
-| 🔧 **Circuit Design** | Schematics and PCBs with KiCad, Altium Designer & EasyEDA |
-| 🎓 **Sharing Knowledge** | Tutorial series on Arduino, sensors, libraries & electronics on YouTube |
+| Embedded Systems | Arduino, ESP32 & Raspberry Pi — sensors, displays, IoT & Blynk projects |
+| Robotics & IoT | Robotic cars, obstacle-detection systems, Bluetooth & Wi-Fi automation |
+| 3D Design | Functional parts & assemblies in Fusion 360 & SolidWorks, ready for print |
+| Desktop Apps | Python desktop tools — e.g. pill dispenser, hand-gesture volume control |
+| Mobile | Flutter apps for hardware monitoring and automation |
+| Circuit Design | Schematics and PCBs with KiCad, Altium Designer & EasyEDA |
+| Sharing Knowledge | Tutorial series on Arduino, sensors, libraries & electronics on YouTube |
 
 ---
 
@@ -271,34 +268,34 @@ JavaScript              ██████████████░░░░�
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%A7%A0+How+I+Approach+Problems&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=How+I+Approach+Problems&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 </div>
 
 <br/>
 
 ```
-💡 Idea
-   │
-   ▼
-🔍 Understand the real problem, not just the symptom
-   │
-   ▼
-🌐 Research — datasheets, forums, similar projects
-   │
-   ▼
-🔨 Build the hardware + software prototype
-   │
-   ▼
-✅ Test with real hardware, debug until it works
-   │
-   ▼
-🎨 Polish the design and write clean, documented code
-   │
-   ▼
-🚀 Share it — videos, tutorials, open source
-   │
-   ▼
-🔁 Repeat forever.
+Idea
+   |
+   v
+Understand the real problem, not just the symptom
+   |
+   v
+Research — datasheets, forums, similar projects
+   |
+   v
+Build the hardware + software prototype
+   |
+   v
+Test with real hardware, debug until it works
+   |
+   v
+Polish the design and write clean, documented code
+   |
+   v
+Share it — videos, tutorials, open source
+   |
+   v
+Repeat forever.
 ```
 
 ---
@@ -309,7 +306,7 @@ JavaScript              ██████████████░░░░�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%92%BC+Let%27s+Build+Something&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=Let's+Build+Something&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 
 <br/>
 
@@ -330,7 +327,7 @@ If you have a project that combines hardware, software, or 3D design — reach o
 
 <br/>
 
-> ⭐ A star or follow keeps me motivated to keep building and sharing open-source.
+> A star or follow keeps me motivated to keep building and sharing open-source.
 
 </div>
 
@@ -349,19 +346,9 @@ If you have a project that combines hardware, software, or 3D design — reach o
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 
----
-
-### What I'm Learning Right Now
-
-<div align="center">
-
-[![Arduino](https://skillicons.dev/icons?i=arduino,raspberrypi,esp32,kicad,git,vscode&theme=dark&perline=6)](https://example.com)
-
-</div>
-
 <br/>
 
-`Machine Learning` · `Fusion 360 Advanced` · `PCB Design` · `IoT Automation`
+`Machine Learning` — `Fusion 360 Advanced` — `PCB Design` — `IoT Automation`
 
 <br/>
 
