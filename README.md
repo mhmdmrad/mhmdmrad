@@ -41,7 +41,7 @@
 |  **  Current      ->  IoT, robotics & 3D prototyping            |
 |  ::  Learning     ->  SolidWorks, Machine Learning              |
 |  ??  Ask me about ->  Arduino, ESP32, Raspberry Pi, Python      |
-|  !!  Fun fact     ->  "Build what you wish existed."             |
+|  !!  Fun fact     ->  "Build what you wish existed."            |
 +----------------------------------------------------------------+
 ```
 
