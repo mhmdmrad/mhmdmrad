@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohamad%20Mrad&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontAlign=50&desc=Engineer%20%7C%20Lebanon%20%F0%9F%87%B2%F0%9F%87%9E&descAlignY=60&descSize=26&descAlign=50&stroke=29ABE2&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohamad%20Mrad&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontAlign=50&desc=Future+Engineer%20%7C%20Lebanon%20%F0%9F%87%B2%F0%9F%87%9E&descAlignY=60&descSize=26&descAlign=50&stroke=29ABE2&strokeWidth=3" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=29ABE2&center=true&vCenter=true&width=860&lines=Hey!+I'm+Mohamad+%F0%9F%91%8B;Electronics+%26+Embedded+Systems+Developer;Electronics+%7C+IoT+%7C+3D+Printing+%7C+Arduino+%7C+ESP32+%7C+Raspberry+Pi;Building+hardware+and+software+solutions;From+robotics+to+product+prototyping.+Always+building.;Open+to+projects+%26+collaborations;printf(%22Hello+World%22)%3B+%E2%86%92+my+origin+story" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=29ABE2&center=true&vCenter=true&width=860&lines=Hey!+I'm+Mohamad+%F0%9F%91%8B;Electronics+%26+Embedded+Systems+Developer+Self+Student;Electronics+%7C+IoT+%7C+3D+Printing+%7C+Arduino+%7C+ESP32+%7C+Raspberry+Pi;Building+hardware+and+software+solutions;Always+building.;Open+to+projects+%26+collaborations;printf(%22Hello+World%22)%3B+%E2%86%92+my+origin+story" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -35,13 +35,13 @@
 +----------------------------------------------------------------+
 |  @  DEVELOPER STATUS  .          MOHAMAD                        |
 +----------------------------------------------------------------+
-|  >>  Status       ->  Open for opportunities                    |
-|  <<  Location     ->  Lebanon                                   |
-|  ==  Mode         ->  Freelance + Collaboration                 |
-|  **  Current      ->  IoT, robotics & 3D prototyping            |
-|  ::  Learning     ->  SolidWorks, Machine Learning              |
-|  ??  Ask me about ->  Arduino, ESP32, Raspberry Pi, Python      |
-|  !!  Fun fact     ->  "Build what you wish existed."            |
+|  >>  Status       ->  Still learning                              |
+|  <<  Location     ->  Lebanon                                     |
+|  ==  Mode         ->  Freelance + Collaboration                   |
+|  **  Current      ->  IoT, robotics & 3D prototyping              |
+|  ::  Learning     ->  SolidWorks, Machine Learning                |
+|  ??  Ask me about ->  Arduino, ESP32, Raspberry Pi, Python        |
+|  !!  Fun fact     ->  I love reading philosophy & religious books |
 +----------------------------------------------------------------+
 ```
 
@@ -402,10 +402,8 @@ If you have a project that combines hardware, software, or 3D design — reach o
 
 <br/>
 
-`Machine Learning` — `Fusion 360 Advanced` — `PCB Design` — `IoT Automation`
-
 <br/>
 
-"Build what you wish existed."
+I Belive: "Build what you wish existed."
 
 </div>
