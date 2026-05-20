@@ -15,7 +15,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/mhmdmrad?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/mhmdmrad?tab=followers)
 [![Instagram](https://img.shields.io/badge/Instagram-%40m7mdmr4d-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m7mdmr4d/)
 [![Discord](https://img.shields.io/badge/Discord-mradmhamad-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamad_Mrad-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamad-mrad-52274a367/)
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmdmrad&color=29ABE2&style=for-the-badge&label=Profile+Views)
