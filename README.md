@@ -62,27 +62,25 @@
 <img align="right" alt="Maker at work" width="380"
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```javascript
-const mohamad = {
-  name:      "Mohamad Mrad",
-  location:  "Lebanon",
-  role:      "Aspiring Electronics & Systems Engineer",
-  passion:   "Bridging hardware, software, and design",
+```cpp
+struct FutureEngineer {
+    string name = "Mohamad Mrad";
+    int age = 16;
+    string location = "Lebanon";
+    string focus = "Electronics & Systems Engineering";
+    string passion = "Bridging hardware, software, and design";
 
-  currently_building: [
-    "Electronics projects with Arduino & ESP32",
-    "IoT systems and robotic solutions",
-    "3D-printed functional prototypes with Fusion 360",
-    "Interfacing sensors, displays, and embedded modules",
-  ],
+    vector<string> currently_building = {
+        "Arduino & ESP32 electronics", "IoT & robotic solutions",
+        "SolidWorks mechanical design", "Sensor & embedded module interfacing"
+    };
 
-  core_values: [
-    "Clean & documented code",    "Hands-on learning",
-    "Functional prototypes",      "Teaching what I master",
-  ],
+    vector<string> core_values = {
+        "Product Requirement Documentation & Clear Manageing"
+    };
 
-  open_to:     "Freelance, Collaboration, Open-source",
-  superpower:  "Turning ideas into real working hardware + software.",
+    string open_to = "New friends, Competitions";
+    string superpower = "Turning ideas into real working hardware + software.";
 };
 ```
 
