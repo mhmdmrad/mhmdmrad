@@ -344,7 +344,7 @@ If you have a project that combines hardware, software, or 3D design reach out.
 
 <br/>
 
-📩 **Email:** m7amadmr4d@gmail.com
+ **Email:** m7amadmr4d@gmail.com
 
 <br/>
 
