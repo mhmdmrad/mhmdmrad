@@ -7,14 +7,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohamad%20Mrad&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontAlign=50&desc=Future+Engineer%20%7C%20Lebanon%20%F0%9F%87%B2%F0%9F%87%9E&descAlignY=60&descSize=26&descAlign=50&stroke=29ABE2&strokeWidth=3" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=29ABE2&center=true&vCenter=true&width=860&lines=Hey!+I'm+Mohamad+%F0%9F%91%8B;Electronics+%26+Embedded+Systems+Developer+Self+Student;Electronics+%7C+IoT+%7C+3D+Printing+%7C+Arduino+%7C+ESP32+%7C+Raspberry+Pi;Building+hardware+and+software+solutions;Always+building.;Open+to+projects+%26+collaborations;printf(%22Hello+World%22)%3B+%E2%86%92+my+origin+story" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=29ABE2&center=true&vCenter=true&width=860&lines=Hey!+I'm+Mohamad+%F0%9F%91%8B;Learning+Electronics+%26+Embedded+Systems+Developer;Electronics+%7C+IoT+%7C+3D+Printing+%7C+Arduino+%7C+ESP32+%7C+Raspberry+Pi;Building+hardware+and+software+solutions;Always+building.;Open+to+projects+%26" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/mhmdmrad?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/mhmdmrad?tab=followers)
-[![Instagram](https://img.shields.io/badge/Instagram-%40mhmdmrad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmdmrad/)
-[![Discord](https://img.shields.io/badge/Discord-Mohaad1812-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40m7mdmr4d-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m7mdmr4d/)
+[![Discord](https://img.shields.io/badge/Discord-mradmhamad-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 <br/>
 
@@ -366,16 +366,12 @@ Repeat forever.
 
 <br/><br/>
 
-I'm open to **freelance work**, **collaboration**, and **open-source projects**.
-If you have a project that combines hardware, software, or 3D design — reach out.
+I'm open to **open-source projects**.
+If you have a project that combines hardware, software, or 3D design reach out.
 
 <br/>
 
 📩 **Email:** m7amadmr4d@gmail.com
-
-[![Instagram](https://img.shields.io/badge/Instagram-%40mhmdmrad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmdmrad/)
-[![Discord](https://img.shields.io/badge/Discord-Mohaad1812-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@mhmdmrad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmdmrad)
 
 <br/>
 
@@ -390,9 +386,6 @@ If you have a project that combines hardware, software, or 3D design — reach o
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=mhmdmrad&color=29ABE2&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/mhmdmrad?label=GitHub%20Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/mhmdmrad?tab=followers)
 
 <br/>
 
