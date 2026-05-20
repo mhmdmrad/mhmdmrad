@@ -147,7 +147,8 @@ Sensors & IoT           ||||||||||||||||||||       75%
 Fusion 360 / SolidWorks ||||||||||||||||||||||||   90%
 KiCad / PCB Design      |||||||||||||||||          65%
 Git & GitHub            |||||||||||||||||||||      80%
-JavaScript              |||||||||||||||            55%
+JavaScript              ||||||||||||||             55%
+Flutter                 |||||||||||||||||||||      79%
 ```
 
 <br clear="right"/>
@@ -301,10 +302,10 @@ JavaScript              |||||||||||||||            55%
 Idea
    |
    v
-Understand the real problem, not just the symptom
+Understand the real problem
    |
    v
-Research — datasheets, forums, similar projects
+Research datasheets, forums, similar projects
    |
    v
 Build the hardware + software prototype
@@ -316,7 +317,7 @@ Test with real hardware, debug until it works
 Polish the design and write clean, documented code
    |
    v
-Share it — videos, tutorials, open source
+Share it
    |
    v
 Repeat forever.
