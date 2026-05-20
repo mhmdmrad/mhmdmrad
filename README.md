@@ -307,11 +307,10 @@ JavaScript              |||||||||||||||            55%
 |:---|:---|
 | Embedded Systems | Arduino, ESP32 & Raspberry Pi — sensors, displays, IoT & Blynk projects |
 | Robotics & IoT | Robotic cars, obstacle-detection systems, Bluetooth & Wi-Fi automation |
-| 3D Design | Functional parts & assemblies in Fusion 360 & SolidWorks, ready for print |
-| Desktop Apps | Python desktop tools — e.g. pill dispenser, hand-gesture volume control |
+| 3D Design | Functional parts & assemblies in SolidWorks |
+| Python Stuff | Python desktop tools — e.g. posture guard, hand-gesture volume control |
 | Mobile | Flutter apps for hardware monitoring and automation |
-| Circuit Design | Schematics and PCBs with KiCad, Altium Designer & EasyEDA |
-| Sharing Knowledge | Tutorial series on Arduino, sensors, libraries & electronics on YouTube |
+
 
 ---
 
