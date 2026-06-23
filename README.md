@@ -137,17 +137,17 @@ struct FutureEngineer {
   src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 ```text
-Arduino / ESP32 / RPi   ||||||||||||||||||||||||   90%
-C / C++ / Python        |||||||||||||||||||||||    88%
-Electronics & Circuits  |||||||||||||||||||||||    85%
-Mechanical Design       |||||||||||||||||||||      80%
-3D Printing & Slicing   |||||||||||||||||||||||    82%
-Sensors & IoT           ||||||||||||||||||||       75%
-Fusion 360 / SolidWorks ||||||||||||||||||||||||   90%
-KiCad / PCB Design      |||||||||||||||||          65%
-Git & GitHub            |||||||||||||||||||||      80%
-JavaScript              ||||||||||||||             55%
-Flutter                 |||||||||||||||||||||      79%
+Arduino / ESP32 / RPi   ||||||||||||||||||||||||   
+C / C++ / Python        |||||||||||||||||||||||  
+Electronics & Circuits  |||||||||||||||||||||||    
+Mechanical Design       |||||||||||||||||||||      
+3D Printing & Slicing   |||||||||||||||||||||||    
+Sensors & IoT           ||||||||||||||||||||       
+Fusion 360 / SolidWorks ||||||||||||||||||||||||   
+KiCad / PCB Design      |||||||||||||||||         
+Git & GitHub            |||||||||||||||||||||      
+JavaScript              ||||||||||||||             
+Flutter                 |||||||||||||||||||||      
 ```
 
 <br clear="right"/>
