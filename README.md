@@ -143,7 +143,7 @@ Electronics & Circuits  |||||||||||||||||||||||
 Mechanical Design       |||||||||||||||||||||      
 3D Printing & Slicing   |||||||||||||||||||||||    
 Sensors & IoT           ||||||||||||||||||||       
-Fusion 360 / SolidWorks ||||||||||||||||||||||||   
+Fusion 360 / SolidWorks ||||||||||||||||||||||||||   
 KiCad / PCB Design      |||||||||||||||||         
 Git & GitHub            |||||||||||||||||||||      
 JavaScript              ||||||||||||||             
